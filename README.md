@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Fizza Rehman</h1>
 <h3 align="center">🎓 Final Year Software Engineering Student | 💻 Future Web Developer | 🚀 Curious Mind, Creative Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fizza-rehman89&label=Profile%20views&color=0e75b6&style=flat" alt="fizza-rehman89" /> </p>
+<img width="400" align="right" alt="coding" src="https://github.com/user-attachments/assets/c1b29f2b-5327-494a-b3aa-21c602d1903c" />
 
 
 - 🌱 I’m currently learning **MERN stack**
