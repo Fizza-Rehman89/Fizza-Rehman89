@@ -1,8 +1,9 @@
-<img src="Profile_banner.png" alt="My Image" width="400">
+<img width="2000" height="600" alt="Profile_banner" src="https://github.com/user-attachments/assets/be25331b-7679-498d-92f7-0c7f60f1e942" />
 <h1 align="center">Hi 👋, I'm Fizza Rehman</h1>
 <h3 align="center">🎓 Final Year Software Engineering Student | 💻 Future Web Developer | 🚀 Curious Mind, Creative Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fizza-rehman89&label=Profile%20views&color=0e75b6&style=flat" alt="fizza-rehman89" /> </p>
+
 
 - 🌱 I’m currently learning **MERN stack**
 
