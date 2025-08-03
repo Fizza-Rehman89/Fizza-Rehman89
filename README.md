@@ -1,3 +1,4 @@
+<img src="Profile_banner.png" alt="My Image" width="400">
 <h1 align="center">Hi 👋, I'm Fizza Rehman</h1>
 <h3 align="center">🎓 Final Year Software Engineering Student | 💻 Future Web Developer | 🚀 Curious Mind, Creative Solutions</h3>
 
